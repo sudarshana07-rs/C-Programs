@@ -31,5 +31,7 @@ int main()
     float percentage=total*100/600;
     printf("Percentage = %2.2f \n", percentage);
     printf("-------------------------------- \n");
+    printf("I am Sudarshana");
     return 0;
+    
 }
